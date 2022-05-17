@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a random quote each time the user clicks a button.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://stephc23.github.io/a-random-quote-generator/",
+            "github_link": "https://github.com/stephc23/a-random-quote-generator",
+            "image_urls": ["/static/images/random-quote-square.jpeg", "/static/images/random-quote-landscape.jpeg"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "A program that allows the user to browse pages of student data or to search for a specific student.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://stephc23.github.io/data-pagination-and-filtering/",
+            "github_link": "https://github.com/stephc23/data-pagination-and-filtering",
+            "image_urls": ["/static/images/data-pagination-square.jpeg", "/static/images/data-pagination-landscape.jpeg"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "An interactive registration form for a fictional conference.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://stephc23.github.io/interactive-form/",
+            "github_link": "https://github.com/stephc23/interactive-form",
+            "image_urls": ["/static/images/interactive-form-square.jpeg", "/static/images/interactive-form-landscape.jpeg"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based word guessing game called Phrase Hunter.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://stephc23.github.io/oop-game-show-app/",
+            "github_link": "https://github.com/stephc23/oop-game-show-app",
+            "image_urls": ["/static/images/oop-game-square.jpeg", "/static/images/oop-game-landscape.jpeg"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "An employee directory created using data from a public API.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://stephc23.github.io/public-api-requests/",
+            "github_link": "https://github.com/stephc23/public-api-requests",
+            "image_urls": ["/static/images/api-requests-square.jpeg", "/static/images/api-requests-landscape.jpeg"]
+        }
+    ] 
+}
