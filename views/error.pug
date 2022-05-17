@@ -1,0 +1,13 @@
+extends layout.pug 
+
+block content
+    .box
+        h2= err.status
+        h3= err.message
+
+        iframe(src='https://giphy.com/embed/3oKHW5ygEPHUNrb1SM' width='360' height='270' frameBorder='0')
+
+        nav.nav
+            a(href='/')
+                span &larr;
+                |  Back

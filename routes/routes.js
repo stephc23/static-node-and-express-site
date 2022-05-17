@@ -17,8 +17,7 @@ router.get('/project/:id', (req, res, next) => {
     if (id < projects.length) {
         res.render('project', {project: projects[id]});
     } else {
-        const err = new Error('The project does not exist.');
-        next(err);
+        next();
     }
 });
 
