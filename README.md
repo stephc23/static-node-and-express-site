@@ -1,6 +1,6 @@
-##Treehouse Techdegree Project 6
+## Treehouse Techdegree Project 6
 
-####Portfolio website to showcase projects
+#### Portfolio website to showcase projects
 
 Style changes:
 - For `h1,h2,h3,h4,h5,p`, `font-family` changed to `'Kadwa', serif`
