@@ -22,17 +22,17 @@ body {
   line-height: 1.5;
   color: #0a0a0a;
   background: #fefefe;
-  background: #000;
+  background: #e0fffd;
   transform: translateX(0px);
-  transition: all 0.4s ease-out;
+  transition: all .5s ease-in-out;
 }
 
 article {
-  background: #fefefe;
+  background: #e0fffd;
 }
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Kadwa', serif;
 }
 
 h5{
@@ -63,7 +63,7 @@ a {
   min-width: 320px;
   height: 100%;
   min-height: 100%;
-  background: #fefefe;
+  background:#e0fffd
 }
 
 .flex-row-wrap {
@@ -82,7 +82,7 @@ a {
   width: 100%;
   max-width: 1200px;
   padding: 40px 50px 30px;
-  background: #fefefe;
+  background: #e0fffd;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -137,7 +137,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: #fefefe
 }
 
 .sidebar-info-box {
@@ -159,7 +159,7 @@ nav a span {
 }
 
 .sidebar h5 {
-  color: #fefefe;
+  color: #0a0a0a;
   margin: 0 auto 0.5rem;
 }
 
@@ -247,7 +247,7 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.25px;
   text-transform: uppercase;
-  color: #222;;
+  color: #666;
   margin: 0 auto 8px;
 }
 
@@ -278,6 +278,11 @@ nav a span {
 
 .skills-contact-box ul {
   margin-bottom: 35px;
+  margin-left: -25px;
+}
+
+.project-tech-links-box ul {
+  margin-left: -25px;
 }
 
 .project-img {
